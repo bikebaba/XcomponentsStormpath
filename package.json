@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "stormpath-express-react-example",
   "description": "A sample app demonstrating how to integrate Stormpath with React and Express.",
   "homepage": "https://github.com/stormpath/stormpath-express-react-example",
