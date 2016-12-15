@@ -18,7 +18,7 @@ export default class IndexPage extends React.Component {
         <hr />
         <div className="jumbotron">
           <p>
-            <strong>Oteemo Component Builder with Stormpath</strong>
+            <strong>Oteemo-X Component Builder with Stormpath</strong>
           </p>
           <ol className="lead">
             <NotAuthenticated>
